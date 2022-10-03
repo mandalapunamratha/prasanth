@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<title> MY RESUME </title>
+<head>
+    <body>
+        <h1>CIRRCULAR VITAE</h1>
+        <p>NAME:Mandalapu.Namratha<p>
+        <p>Email:namrathamandalapu@gmail.com<br>phone:8247555930<br>Gender:Female<br>Date of Birth:13-02-2004<br>
+            Address:Mandalapu.Namratha<br>D/O Mandalapu Madhusudhanarao<br>D.NO:3-23/A<br>Gudipadu<br>musunuru<br>eluru</p>
+        <h2>CAREER OBJECTIVE<h2>
+                <p>I Want to work with an organisation that can give me ample oppurtunities to grow so that I will be able to help
+                in the growth of that organsation and will able to enhance my skills and my capabilities.</p>
+                <style>
+                    table,th,td{
+                          border:1px solid black;
+                    }
+                </style>
+<h2> ACADEMIC QUALIFICATION </h2>
+                <table style="Width:100%;">
+                <tr>
+                <th>EXAM /DEGREE</th>
+                <th>BOARD</th>
+                <th>INSTITUTE</th>
+                <th> YEAR </th>
+                <th PERCENTAGE </th>
+                </tr>
+                <tr>
+                 <td> B.TECH</td>
+                 <td> jntuk </td>
+                 <td> VNITWS </td>
+                 <td> 2025</td>
+                 <td> pursuring </td>
+                </tr>
+                <tr>
+                      <td> Intermediate </td>
+                      <td> State(AP)</td>
+                      <td> sri chaitanya</td>
+                      <td> 2021</td>
+                      <td> 92%</td>
+                </tr>
+                <tr>
+                      <td>SSC </td>
+                      <td> State(AP)</td>
+                      <td> sri vidya</td>
+                      <td> 2019</td>
+                      <td> 9.3</td>
+                </tr>
+                </table>
+                
+        <h2> TECHNICAL SKILLS</h2.
+                <ul>
+                     <li> Language:C,Python</li>
+                     <li> Webtechnologies;HTML,CSS</li>
+                </ul>
+    <h2> STRENGHTS </h2>
+            <ul>
+                      <li>Self discipline</li>
+                      <li> self motivated and Hardworking</li>
+                      <li> Good verbal and capturing communication skills </li>
+                      <li> Quick learner</li>
+                </ul>
+<h2> HOBBIES </h2>
+        <ul>
+             <li> playing games </li>
+             <li> listening music</li>
+             <li> browsing internet</li>
+             <li> Capturing moments,Dancing</li>
+            </ul>
+            <h2> LANGUAGES KNOWN </h2>
+            <ul>
+               <li> Telugu </li>
+               <li> English </li>
+            </ul>
+            <h2> DECLARATION </h2>
+            <p> I here by declare that all the above mentioned information is true to best of my knowledge and I bear the responsibility for the correctness of the above mentioned particulars.</p>
+            <i> Mandalapu Namratha</i>
+</body>
+</head>
+</html>               
+
+                
+
+
